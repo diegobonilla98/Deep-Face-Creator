@@ -3,6 +3,7 @@ Create new faces controlling unsupervise learned features.
 
 Using a Deep Learning Network called Variational AutoEncoder I've used the latent space it creates for infering new faces.
 As the features are self-created, I don't have any controll from what they represent (as the data was unlabed anyway, btw [here is the dataset link](https://storage.googleapis.com/kaggle-data-sets/182088%2F408792%2Fbundle%2Farchive.zip?GoogleAccessId=gcp-kaggle-com@kaggle-161607.iam.gserviceaccount.com&Expires=1591108251&Signature=qTkt%2FRE6ahjYvtPcNT8D2Zfqh8k6ahiaSFeGL%2FPTEm%2BbYV4a7w8J%2F60EmRavl86hFQW2suSohkpUnjcki6oR3RT83%2B8%2FlZJknRUSdXBVxOueHDKEvfudr1A%2FfUD%2BQiO9CuRVRSm8PESfvlNxJ%2B1gSFb21V2sp%2B2kxNaRlaDKATkMYzb5e3Wzcf83S1qSHsVZpPulHRvNrwdW0CHhgZMWgeWwyKpDZrAqoqOBdUILeGsMaOuu4h974o3mTJR3MxtVv4k01opcnIOvaoW2qBWAldfRBY8lFsctePau6dfUHrmwcekiCPpnnmhJumk%2FryWe9wO2Q3jcIeBv%2BU8h1Okycg%3D%3D)). The labels (in beautifull Spanish) are just to make the creation easier but they don't really have to represent exactly that.
+For what? Imagine you have to describe a suspect as you are the only witness from a bank robbery. What an easier way to do it that implement real imagery algorithms. Also was a very fun project.
 
 Here is an example:
 
